@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hey there, I'm Aryan. I'm a person who loves experiencing novel things and seeks adventure even in my studies. Currently, I'm pursuing a degree in Computer Engineering at the University of Tehran, and I aspire to apply for a PhD program at a well-known university. My main interest lies in graphs, social networks, and the application of machine learning to graphs, specifically Graph Neural Networks (GNNs). However, due to my passion for computer science, I have also engaged in studies and research in other fields. My hobby is playing music, and I enjoy playing the piano in my free time. It gives me a great sense of immersion in my emotions.  # Describe yourself.
+  desc: <h3>Hey there, I'm Aryan. I'm a person who loves experiencing novel things and seeks adventure even in my studies. Currently, I'm pursuing a degree in Computer Engineering at the University of Tehran, and I aspire to apply for a PhD program at a well-known university. My main interest lies in graphs, social networks, and the application of machine learning to graphs, specifically Graph Neural Networks (GNNs). However, due to my passion for computer science, I have also engaged in studies and research in other fields. My hobby is playing music, and I enjoy playing the piano in my free time. It gives me a great sense of immersion in my emotions.<h3>  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
