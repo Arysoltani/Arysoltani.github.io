@@ -12,20 +12,20 @@
   tpl: Publications.html
   css: 
 
-- id: projects
-  i18n: nav.projects
-  name: Projects
-  tpl: projects.html
-  css: project
+# - id: projects
+#   i18n: nav.projects
+#   name: Projects
+#   tpl: projects.html
+#   css: project
 
-- id: Research Intrests
-  i18n: nav.projects
-  name:  Research Intrests
-  tpl: projects.html
-  css: project
+# - id: Research Intrests
+#   i18n: nav.projects
+#   name:  Research Intrests
+#   tpl: projects.html
+#   css: project
 
-- id: skills
-  i18n: nav.skills
-  name: Skills
-  tpl: skills.html
-  css: team
+# - id: skills
+#   i18n: nav.skills
+#   name: Skills
+#   tpl: skills.html
+#   css: team
