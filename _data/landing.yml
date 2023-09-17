@@ -7,10 +7,10 @@
   css:
 
 - id: publications
-  i18n: nav.career
+  # i18n: nav.career
   name: Publications
   tpl: Publications.html
-  css: timeline
+  css: 
 
 - id: projects
   i18n: nav.projects
