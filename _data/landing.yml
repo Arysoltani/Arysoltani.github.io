@@ -9,7 +9,7 @@
 - id: publications
   i18n: nav.career
   name: Publications
-  tpl: career.html
+  tpl: Publications.html
   css: timeline
 
 - id: projects
