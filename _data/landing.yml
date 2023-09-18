@@ -12,10 +12,10 @@
   tpl: Publications.html
   css: 
 
-- id: Non Academic me
+- id: Non Academic me 😎
   # i18n: nav.career
   name: Non Academic me
-  tpl: Publications.html
+  tpl: NonAcademic.html
   css: 
 # - id: projects
 #   i18n: nav.projects
