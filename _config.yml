@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-# title: Aryan Soltani Website
+title: Aryan Soltani Website
 description: Aryan Soltani's blog,use Jekyll and github pages.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  "" # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -31,27 +31,27 @@ author:  # change following line to your infomation.
   desc: <h3>Hey there, I'm Aryan. I'm a person who loves experiencing novel things and seeks adventure even in my studies. Currently, I'm pursuing a degree in Computer Engineering at the University of Tehran, and I aspire to apply for a PhD program at a well-known university. My main interest lies in graphs, social networks, and the application of machine learning to graphs, specifically Graph Neural Networks (GNNs). However, due to my passion for computer science, I have also engaged in studies and research in other fields. My hobby is playing music, and I enjoy playing the piano in my free time. It gives me a great sense of immersion in my emotions.<h3>  # Describe yourself.
 
 # comment
-# disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-#   name: jalpc
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: jalpc
 
-# # analytics
-# ## google analytics
-# ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-#   id: UA-93473370-3
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  id: UA-93473370-3
 
 ## google optimize
-# go:
-#   # id:
+go:
+  # id:
 
-# ## growingIO
-# gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
-#   # id:
+## growingIO
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
 
 ## donation
-# donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: on  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
-# index_carousel: on  # index page carousel switch
+index_carousel: on  # index page carousel switch
 # blog_carousel: on  # blog page carousel switch
 
 # scss
