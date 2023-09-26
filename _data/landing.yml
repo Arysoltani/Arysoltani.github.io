@@ -6,10 +6,17 @@
   tpl: about.html
   css:
 
+
 - id: publications
   # i18n: nav.career
   name: Publications
   tpl: Publications.html
+  css: 
+
+- id: Career
+  # i18n: nav.career
+  name: Career
+  tpl: Career.html
   css: 
 
 - id: Projects
